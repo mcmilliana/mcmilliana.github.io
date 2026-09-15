@@ -1,0 +1,24 @@
+body {
+    background-color: #9B4B44;
+}
+
+h1 {
+    color: #1D2044;
+    font-family: "Times New Roman", serif;
+}
+
+p {
+    color: #9C8648;
+    font-family: Georgia, serif;
+    margin: 30px;
+    padding: 20px;
+}
+
+div {
+    width: 300px;
+    height: 150px;
+    background-color: #9C8648;
+    border: 2px solid #1D2044;
+    padding: 20px;
+    margin: 30px;
+}
